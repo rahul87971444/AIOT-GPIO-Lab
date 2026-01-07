@@ -1,4 +1,3 @@
-# AIOT-GPIO-Lab
 # AIOT GPIO Lab Experiments – Raspberry Pi
 
 This repository contains Python programs developed as part of the
